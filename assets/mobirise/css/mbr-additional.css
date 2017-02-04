@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
 
 
@@ -1097,19 +1096,19 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
 }
-#header3-1p .mbr-section-title,
-#header3-1p .mbr-section-subtitle {
-  text-align: center;
+#content1-2c DIV {
+  text-align: left;
+  color: #efefef;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
-#header3-1p SPAN {
+#content1-2c BLOCKQUOTE {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
 }
-#header3-1p DIV {
-  color: #cccccc;
+#content1-2c P {
   text-align: left;
   font-size: 14px;
-  font-family: 'Slabo 27px', serif;
 }
 
 
