@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
 
@@ -1026,6 +1027,7 @@ h6,
 
 
 
+
 #menu-1m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1109,6 +1111,7 @@ h6,
 #content1-2c P {
   text-align: left;
   font-size: 14px;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 
