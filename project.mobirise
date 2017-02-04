@@ -1,0 +1,2207 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Badacsontördemic Horgász Egyesület",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#00c138",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Source Sans Pro",
+        "subtitleFont": "Source Sans Pro",
+        "textFont": "Source Sans Pro",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 81,
+    "versionPublish": "3.11.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-2.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Badacsonytördemic Horgász Egyesület",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-c",
+          "_params": {
+            "imageSize": "32",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bckgrnd-fotor1-1400x1667.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Badacsonytördemic<br>Horgász Egyesület",
+          "text": "Köszöntjük weblapunkon!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">\u001base</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        }
+      ]
+    },
+    "rolunk.html": {
+      "settings": {
+        "title": "Rólunk",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Rólunk"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-d",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "32px",
+              "color": "#efefef",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "15px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px",
+              "color": "#efefef",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "header1-l",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bckgrnd-fotor-2000x1489.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#383838",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Rólunk</span>",
+          "text": "<span style=\"font-style: normal;\"><br>A Balaton parti településekhez hasonlóan Badacsonytördemic múltjában már megtalálható a horgászat-halászat.&nbsp;Elődeink rendelkeztek halászkikötővel a Badacsony lábánál. A 80-as években a strand területén kötöttek ki a horgászok csónakjaikkal.&nbsp;<span style=\"line-height: 1.5;\">1991-ben a jelenlegi kikötőt 8 fő befizetésével alakították ki.&nbsp;</span>Ezek: Gelencsér Ferenc, Felföldy Mihály, Ropoli László, Cseh Sándor, dr. Mayer Mihály, Pálosi János, Berkes Imre, Tóth Csaba.&nbsp;A későbbiekben ehhez sokan csatlakoztak.<br><br>1992. december 28-án 17 fővel megalakították a Horgász Egyesületet Lovass János elnök vezetésével.<br><br>2000-ben a megszülető Balaton törvény hatására elődeink elkezdték a kikötő engedélyeztetését. Megszerezték a vízjogi engedélyt 2010-ig, de a közlekedési engedélyt nem sikerült megkapni.<br><br><span style=\"line-height: 1.5;\">Jelenleg az Egyesület létszáma 110 fő körül ingadozik. A létszám 70 %-a helyi ingatlantulajdonos.&nbsp;</span><span style=\"line-height: 1.5;\">Az Egyesület előtt álló legfontosabb feladat a kikötő engedélyeinek megszerzése és egy új kikötő megépítése.&nbsp;</span><span style=\"line-height: 1.5;\">A feladat nehézségeit jól mutatja, hogy az ügyintézés 2009. óta folyik. Hozzáértő jogi szakemberek azt mondják, hogy a jelenlegi jogi környezetben az engedélyek megszerzése lehetetlen.&nbsp;</span><span style=\"line-height: 1.5;\">Azonban a Polgármesteri Hivatallal vállvetve addig megyünk, amíg nem sikerülnek a terveink. Őszintén reméljük, hogy a testületek változása esetén is támogatást kapunk.</span><br><br>A Községünk érdeke, hogy strandunk és kikötőnk legyen hosszútávon az Önkormányzat tulajdonában.&nbsp;<span style=\"line-height: 1.5;\">Az Egyesület minden évben tavasszal horgászpikniket tart, ősszel pedig egy süllős hétvégét a strand területén.</span><br><br>Fontos esemény még a haltelepítés, amely 2010. óta zajlik területünkön.</span><br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"mailto: tordemic-he@freemail.hu\" data-toolbar=\"-mbrBtnMove\">Érdeklődés</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        }
+      ]
+    },
+    "vezetoseg.html": {
+      "settings": {
+        "title": "Vezetőség",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Vezetőség"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "32px",
+              "color": "#efefef",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "font-size": "15px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px",
+              "color": "#efefef",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header1-n",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lake-balaton-2000x1338.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#383838",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "<span style=\"font-weight: normal;\">Vezetőség</span>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\"><b>Elnök:                             Molnár Géza</b> </span><br><span style=\"font-style: normal;\">                      Telefon: +36-30/211-1750</span><br><span style=\"font-style: normal;\">e-mail: m.geza55@freemail.hu<br><br><b>                 Titkár:</b>                            Takács József </span><br><span style=\"font-style: normal;\">Telefon: +36-20/958-1226 </span><br><span style=\"font-style: normal;\">e-mail: takacsjozsef4@t-online.hu<br><br><b>                 Gazdasági vezető:</b>                      Tóth Csaba </span><br><span style=\"font-style: normal;\">Telefon: +36-30/910-7358 </span><br><span style=\"font-style: normal;\">e-mail: toth-lubo@freemail.hu<br><br><b>                 Ellenőrző bizottság:</b>                Tar László, Bognár Balázs, Németh Csaba<br><br><b>                 Fegyelmi bizottság:</b>                Bognár Imre, Újvári Vilmos, Simon Imre<br><br><b>                 Kikötőmester:</b>                     Kulcsár László </span><br><span style=\"font-style: normal;\">Telefon: +36-30/324-6389 </span><br><span style=\"font-style: normal;\">e-mail: kulcsarlaszlo64@indamail.hu<br><br></span>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"mailto: tordemic-he@freemail.hu\" data-toolbar=\"-mbrBtnMove\">Érdeklődés</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        }
+      ]
+    },
+    "kapcsolatfelvetel.html": {
+      "settings": {
+        "title": "Kapcsolatfelvétel",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Kapcsolatfelvétel"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc"
+            },
+            "SMALL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "color": "#cccccc",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "form1-v",
+          "_params": {
+            "labelsColor": "#cccccc",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Kapcsolatfelvétel",
+          "subtitle": "<span style=\"font-style: normal;\">Kérjük, az alábbi mezőket kitöltve vegye fel velünk a kapcsolatot</span>",
+          "form": {
+            "action": "tordemic-he@freemail.hu",
+            "alerts": {
+              "success": "Köszönjük, hogy kapcsolatba lépett velünk!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Név*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Üzenet"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ELKÜLDÖM</a>"
+        }
+      ]
+    },
+    "elerhetosegek.html": {
+      "settings": {
+        "title": "Elérhetőségek",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Elérhetőségek"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts2-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "8262 badacsonylábd",
+              "placeId": "ChIJAYH_jekAaUcRbu2KxW6rxiQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong><br></strong><strong><br></strong><br>Székhely&nbsp;<br><span style=\"line-height: 1.5;\">H-8263</span><br> Badacsonytördemic Béke utca 11.<br>Magyarország - Hungary<br><br><br><br><span style=\"line-height: 1.5;\">Kikötő&nbsp;</span><br>H-8263<br><span style=\"line-height: 1.5;\">Badacsonylábdihegy</span><br>Csónakkikötő<br><br><br><br>E- mail:&nbsp;<br><a href=\"mailto: tordemic-he@freemail.hu\" class=\"text-white\">tordemic-he@freemail.hu</a><br>",
+          "text2": ""
+        }
+      ]
+    },
+    "alapszabaly.html": {
+      "settings": {
+        "title": "Alapszabály",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Alapszabály"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-13",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Horgász Egyesület<br>Alapszabály",
+          "text": "<p>2016</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#383838",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\"><br></span><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">(egységes szerkezetben a 2016. _____________ . napján tartott &nbsp; \u001b<span style=\"line-height: 1.1;\">zgyűlésen elfogadott módosításokkal)</span></span></div><div><div style=\"text-align: center;\"><span style=\"font-weight: normal;\"><span style=\"line-height: 1.1; text-align: left;\">Az Egyesület közgyűlése elhatározta, hogy az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Civil törvény), és a Polgári Törvénykönyvről szóló 2013. évi V. törvénynek megfelelően az alábbiak szerint módosítja, ill\u001betve egységes szerkezetbe foglalja az Egyesület Alapszabályát.</span><br></span></div></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">I.\t1.\tAz egyesület neve: „HORGÁSZEGYESÜLET BADACSONYTÖRDEMIC”</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">2.\tSzékhelye: Badacsonytördemic, Béke utca 11.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">3.\t\tAz egyesületet tagjainak nevét és lakóhelyét tartalmazó adatokat az Alap-szabály mellékletét képező „tagjegyzék” tartalmazza.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">4.\tPecsétje:&nbsp;</span></div><div><span style=\"font-weight: normal;\">Kőralakú, körben ívesen az egyesület neve, székhelye, alakulásának éve, középen hal</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">5.\tVízterület, működési terület: A Balaton szigligeti és badacsonyi hajóállo-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;más között elterülő vízszakasz</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">6.\tAz egyesület célja, feladatai:</span></div><div><span style=\"font-weight: normal;\">a./ \ttagjai horgászérdekeinek képviselete, valamint kedvező horgászlehetőség biztosítása,</span></div><div><span style=\"font-weight: normal;\">&nbsp;b./\ta horgászsport fejlesztése, népszerűsítése</span></div><div><span style=\"font-weight: normal;\">&nbsp;c./ \ta horgászoknak a jogszabályok, a társadalmi együttélés és a&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; horgászerkölcs szabályainak tiszteletben tartása, a természet&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; szeretetére és védelmére való nevelése,</span></div><div><span style=\"font-weight: normal;\">d./\thorgászversenyek rendezése, a gyermek és ifjúsági tagok megismertetése a horgászat alapjaival.</span></div><div><span style=\"font-weight: normal;\">e./\tegyüttműködés, kapcsolattartás szervezése (a vízirendőrséggel, a vízkezelővel, az önkormányzattal, a NAV -val, a szövetséggel, a természetvédelmi szervekkel, a társegyesületekkel, stb.)</span></div><div><span style=\"font-weight: normal;\">f.)\tsegíteni a horgászvizek hasznosítóit és a hatóságokat az orvhorgászat megelőzésében, felszámolásában, védeni a balatoni halállományt.</span></div><div><span style=\"font-weight: normal;\">Az egyesület ezen tevékenységeivel a sportról szóló 2004. évi I. törvény 49. § c) pontjában és a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 13. § (1) bekezkezdés 15. pontjában meghatározott közfeladatok megvalósítását segíti elő.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">7.\tAz egyesület jogállása:</span></div><div><span style=\"font-weight: normal;\">a./ \taz egyesület jogi személy, mely</span></div><div><span style=\"font-weight: normal;\">\fb./\ta hatályos jogszabályok, az Alapszabálya és más belső szabályzatai alapján működik.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Az egyesület közvetlen, vagy közvetett politikai tevékenységet nem folytat, országgyűlési képviselő jelöltet nem állíthat, és nem támogathat, szervezete pártoktól független, a pártoknak -beleértve a párt tagjait is- anyagi támogatást nem nyújt.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">II.\tAz egyesület az I. 6. pontban meghatározott célkitűzések érdekében:</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">1.\tBiztosítja tagjainak a rendszeres egyesületi élethez szükséges feltételeket, a horgászattal összefüggő szakismeretek gyarapítását, ennek keretében ismerteti a horgászattal összefüggő jogszabályokat és más rendelkezéseket.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">2.\tBiztosítja, hogy a tagok a horgászatra vonatkozó jogszabályokat, előírásokat és az országos horgászrend szabályai betartsák.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">3.\tSegíti a hatóságokat az orvhalászat és az orvhorgászat megelőzésében és leküzdésében, valamint a vizek tisztasága és a természet védelmében.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Halfogó és a tagság kívánsága esetén egyéb sportrendezvényeket rendez.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">5.\tGazdasági tevékenységet folytathat, az alábbiak szerint:</span></div><div><span style=\"font-weight: normal;\">kulturális és sport szolgáltatás,  (SZJ 196000)</span></div><div><span style=\"font-weight: normal;\">szórakozási,  kulturális, sport és egyéb szabadidős cikkek, berendezések kölcsönzése,  (SZJ 113430)</span></div><div><span style=\"font-weight: normal;\">nem bolti – egyéb kiskereskedelem, (SZJ 194150)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Az egyesület az általa szervezett horgászversenyeken reklámtevékenységet folytathat.&nbsp;</span></div><div><span style=\"font-weight: normal;\">A reklámtevékenységből származó bevételt a horgászsport támogatására fordítja.</span></div><div><span style=\"font-weight: normal;\">Az egyesület a tulajdonában lévő területeken reklámtevékenységet folytathat, a reklámtevékenységből származó bevételt területfejlesztésre és halasításra használja fel.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">III.\t1.\tAz egyesület, mint a Magyar Országos Horgász Szövetség a</span></div><div><span style=\"font-weight: normal;\">(továbbiakban: Szövetség) tagja fejti ki működését.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">2.\tAz egyesület és a Szövetség kapcsolataira a Szövetség alapszabálya az irányadó.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">IV.\t\t\tAz egyesületi tagsági jogviszony szabályai</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Egyesületi tag lehet az, aki tagfelvételét kérte és nem esik jogszabályi korlátozás alá, továbbá az alapszabályban megjelölt feltételeknek megfelel és azok megvalósításában való tevékenységet vállalja.</span></div><div><span style=\"font-weight: normal;\">Az egyesületnek teljes jogú tagjai, ifjúsági tagjai, pártoló és tiszteletbeli tagjai lehetnek.&nbsp;</span></div><div><span style=\"font-weight: normal;\">.\f2.\tAz egyesületnek csak az lehet tagja, aki büntetlen előéletű, nem áll hor-</span></div><div><span style=\"font-weight: normal;\">&nbsp; gászjegy váltásának \ttilalma, illetőleg az egyesületi tagságot kizáró fegyel-</span></div><div><span style=\"font-weight: normal;\">&nbsp; mi büntetés hatálya alatt, továbbá nem áll cselekvőképességet kizáró, vagy</span></div><div><span style=\"font-weight: normal;\">korlátozó gondnokság hatálya alatt.</span></div><div><span style=\"font-weight: normal;\">&nbsp;A teljes jogú tagság feltétele, hogy a tag a 18. életévét már betöltötte, s magyar állampolgárságú, vagy Uniós ország állampolgára, illetve tartózkodási engedéllyel rendelkező nem magyar állampolgár legyen.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">3.\tIfjúsági tagnak a 10 évnél idősebb, 18 éven aluli fiatalokat lehet felvenni. Aki tagfelvételét 14. életév alatt kéri, csak a szülő (gyám) írásbeli hozzájárulásával léphet be az egyesületbe.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">4.\tAz egyesületnek jogi személy, vagy jogi személyiséggel nem rendelkező, de a jogszabály által elismert szervezet, továbbá pártoló (patronáló) és tiszteletbeli tagjai is lehetnek.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">5.\tA jogi személy, vagy jogi személyiséggel nem rendelkező, de a jogszabály által elismert szervezet tagsági viszonyát, illetve az egyesület tevékenységében való részvételére vonatkozó részletes szabályokat az egyesület vezetősége és a jogi személy/szervezet vezetője által kötött együttműködési megállapodás rögzíti.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">6.\tA pártoló és tiszteletbeli tag anyagilag, illetve szakmai, erkölcsi elvi \t\t\ttámogatásával elősegíti az egyesület céljainak teljesítését.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">7.\tAz Egyesület tagja nem magyar állampolgár is lehet.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">V.\t1.\tAz egyesületi tagság a belépési kérelemnek közgyűlés általi elfogadásával</span></div><div><span style=\"font-weight: normal;\">keletkezik. (Ptk. 3:67. § (1) )</span></div><div><span style=\"font-weight: normal;\">A Közgyűlés e hatáskörét határozatával az egyesület vezetőségére (Elnökség) ruházhatja át. Az egyesületbe történő felvételről ez esetben az egyesület vezetősége írásban, határozattal dönt, melyet közöl a felvételt kérővel.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Kérelmező a tagfelvételt elutasító határozat ellen, a határozat kézhezvételétől számított 30 napon belül, a vezetőségnek címzett panasszal fordulhat a közgyűléshez, mely panaszról a közgyűlés a soron következő ülésén dönt.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Az egyesület közgyűlési határozattal korlátozhatja a tagfelvételt.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Az egyesületbe a teljes jogú és ifjúsági tagként való felvételhez belépési díjat, valamint hozzájárulást kell fizetni, melynek teljes összegét a vezetőség határozza meg a közgyűlés által elfogadott mértékben.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tAz egyesületi tagságról a vezetőség folyamatosan nyilvántartást vezet.&nbsp;</span></div><div><span style=\"font-weight: normal;\">A közgyűlés határozatképességének megállapításánál csak a tagnyilvántartás adatai vehetők figyelembe. A tagok személyére vonatkozó adatok nem nyilvánosak. (Ptk. 3:67. § (2) )</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">VI.\t1.\tA tagokat a jogszabályokban és az Alapszabályban foglalt korlátozások</span></div><div><span style=\"font-weight: normal;\">.\f( az ifjúsági, pártoló és tiszteletbeli tagokra vonatkozó korlátozások ) kivételével egyenlő jogok illetik meg és egyforma kötelezettségek terhelik.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tA tagoknak jogukban áll: (Ptk: 3:65. §)&nbsp;)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">a./\tamennyiben az egyesület teljes jogú tagjai, a közgyűlésen személyes</span></div><div><span style=\"font-weight: normal;\">tanácskozási, észrevételezési, indítványtételi és szavazati jogot gya-</span></div><div><span style=\"font-weight: normal;\">korolni. A jogszabályban megállapított feltétel esetén az egyesület&nbsp;</span></div><div><span style=\"font-weight: normal;\">bármely tisztségére megválaszthatók,</span></div><div><span style=\"font-weight: normal;\">b./\taz egyesülettől horgászjegyet igényelni,</span></div><div><span style=\"font-weight: normal;\">c./\ta horgászjegy birtokában területi engedélyt váltani és az abban feltünte-</span></div><div><span style=\"font-weight: normal;\">tett vízterületen horgászni,</span></div><div><span style=\"font-weight: normal;\">d./\ta rendelkezésre álló keretekben megállapított sorrendben és díjazás mellett az egyesület által fenntartott horgászfelszereléseket igénybe venni,</span></div><div><span style=\"font-weight: normal;\">e./\taz egyesület által rendezett tanfolyamokon, előadásokon, filmvetítéseken és más rendezvényeken részt venni,</span></div><div><span style=\"font-weight: normal;\">f./\taz egyesület működése során keletkezett iratokba betekinteni.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">3.\tAz ifjúsági, pártoló és tiszteletbeli tagok szavazati joggal nem \trendelkeznek és tisztségre nem választhatók. A közgyűlésen azonban a \ttanácskozási és idít-ványtételi jog őket is megilleti.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">4.\tA tagok kötelesek: (Ptk. 3:66.§.)</span></div><div><span style=\"font-weight: normal;\">&nbsp;a./\taz alapszabályt, a közgyűlés és az egyesület választott szerveinek hatá</span></div><div><span style=\"font-weight: normal;\">&nbsp; rozatait megtartani,</span></div><div><span style=\"font-weight: normal;\">&nbsp;b./\tvédeni az egyesület tulajdonát, továbbá a megállapított tagdíjat és egyéb&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; díjakat az egyesület pénztárába befizetni,</span></div><div><span style=\"font-weight: normal;\">c./\trésztvenni a közgyűlésen, tevékenyen közreműködni az egyesület mun</span></div><div><span style=\"font-weight: normal;\">&nbsp; kájában,  valamint segíteni az egyesületet feladatai teljesítésében,&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;d./\ta horgászatra vonatkozó jogszabályokat, az országos horgászrendelet,&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; illetve az egyes vízterületeken érvényes helyi horgászrendet megtartani&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; és megtartatni,</span></div><div><span style=\"font-weight: normal;\">e./\ta vizek és partjainak tisztasága felett őrködni, valamint az esetleges víz</span></div><div><span style=\"font-weight: normal;\">&nbsp; szennyezéssel kapcsolatos tapasztalataikat az egyesület vezetőségével&nbsp;</span></div><div><span style=\"font-weight: normal;\">haladéktalanul közölni,&nbsp;</span></div><div><span style=\"font-weight: normal;\">f./\taz egyesület vezetősége által  meghirdetett időpontokban évente \t\t\ta közgyűlés által meghatározott időtartamú társadalmi munkát végezni.&nbsp;</span></div><div><span style=\"font-weight: normal;\">(A társadalmi munka megváltási díját a közgyűlés határozza meg.)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A tag tagsági jogait személyesen gyakorolhatja. A tag tagsági jogait akkor gyakorolhatja képviselőn keresztül, ha azt az alapszabály lehetővé teszi. A tagsági jogok forgalomképtelenek és nem örökölhetők. (Ptk. 3:65.§ (3).)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">VII.\t1.\tA tagság megszűnik:</span></div><div><span style=\"font-weight: normal;\">a)  a tag kilépésével;</span></div><div><span style=\"font-weight: normal;\">b)  a tagsági jogviszony egyesület általi felmondásával;</span></div><div><span style=\"font-weight: normal;\">c)  a tag kizárásával;</span></div><div><span style=\"font-weight: normal;\">d)  a tag halálával vagy jogutód nélküli megszűnésével.</span></div><div><span style=\"font-weight: normal;\">.\f    A tag tagsági jogviszonyát az egyesület képviselőjéhez intézett írásbeli nyi-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp; latkozattal bármikor, indokolás nélkül megszüntetheti. (Ptk. 3:68. §. (2)</span></div><div><span class=\"Apple-tab-span\" style=\"white-space: pre; font-weight: normal;\">\t</span></div><div><span style=\"font-weight: normal;\">A tagok sorából törölni kell azt a tagot, aki az egyesülettel szemben fennálló személyes kötelezettségét (a még elvégezhető ideig, vagy alkalommal) több esetben, a felszólítás ellenére nem végzi el, vagy szándékos bűncselekmény elkövetése miatt jogerősen végrehajtható szabadságvesztés büntetésre ítélték.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;4.\tAzt a tagot, aki a tárgyévi tagdíjjal, vagy egyéb díjakkal a tárgyév II. ne-</span></div><div><span style=\"font-weight: normal;\">gyedévben  még hátralékban van, és a tartozását az írásbeli felszólításban megjelölt határidő alatt sem egyenlíti ki, a vezetőség a tagok sorából határozatával kizárhatja.&nbsp;</span></div><div><span style=\"font-weight: normal;\">A tag kizárása nem érinti az egyesületnek a hátralékos tagdíjra, illetőleg egyéb&nbsp;</span></div><div><span style=\"font-weight: normal;\">díjakra vonatkozó követelését.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">5.\tKizárással veszti el tagságát az, akit az illetékes fegyelmi szerv jogerős határo-</span></div><div><span style=\"font-weight: normal;\">zattal kizárt az egyesület tagjainak sorából.</span></div><div><span style=\"font-weight: normal;\">Kizárással szűnik meg a tagsága annak, aki két egymást követő éves rendes közgyűlésen nem vesz részt, s távolmaradását kellő indokkal előre, vagy azt utólag 30 napon belül nem igazolja.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">6.\tElhalálozás vagy kizárás esetén a tagdíjfizetés kötelezettsége megszűnik, de a már befizetett tagdíjak és egyéb díjak vissza nem követelhetők.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">7.\tAz Egyesület a hátralékos tagdíj vagy egyéb díj iránti követelését bírói úton érvényesítheti.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">8.\tA kizárási eljárást első fokon az Elnökség folytatja le. Az eljárás megindítását írásban (postai úton, e-mailben) bármely tag kezdeményezheti. Az eljárás alá vont taggal az eljárás megindítását és az ellene felhozott okokat, annak bizonyítékait a kizárás kezdeményezésétől számított 15 napon belül írásban (postai úton, e-mailben) közölni kell. Lehetőséget kell biztosítani számára, hogy a kizárás kezdeményezéséről szóló értesítés megküldését követő 5 napon belül a védekezését és bizonyítékait írásban (postai úton, e-mailben) előadja. Ez Elnökség a kizárásról a soron következő elnökségi ülésen dönt. A taggal az Elnökség indoklással ellátott kizáró határozatát írásban (postai úton) közölni kell.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A tag kizárását kimondó határozatot indokolással kell ellátni; az indokolásnak tartalmaznia kell a kizárás alapjául szolgáló tényeket és bizonyítékokat, továbbá a jogorvoslati lehetőségről való tájékoztatást.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A tag a kizáró határozattal szemen annak kézhezvételétől számított 15 napon belül a Közgyűléshez címzett, de az Elnökségnél benyújtott fellebbezéssel élhet. A tag kizárásáról a legközelebbi Közgyűlés dönt. (Ptk. 3: 70. §)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">.\fVIII.\t\t\t\tAz egyesület szervei és működésük.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A testületi szervek akkor határozatképesek, ha az ülésen tagjaiknak \t\tlegalább fele + 1 fő jelen van.</span></div><div><span style=\"font-weight: normal;\">Ha a közgyűlés a tagság alacsony részvétele miatt határozatképtelen, a közgyűlés ugyanazon a helyszínen, ugyanazokkal a napirendi pontokkal, legalább egy óra eltelte után megismételhető. Ebben az esetben a közgyűlés a megjelentek számától függetlenül is határozatképes azzal, hogy a tagokat már az eredeti meghívóban tájékoztatni kell a megismételt közgyűlés helyéről, idejéről, változatlan napirendi pontjairól, és a határozatképességéről.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A szavazás a 3. pontban foglaltak kivételével minden kérdésben nyílt. A szava-</span></div><div><span style=\"font-weight: normal;\">zat egyenlőség esetén az elnök szavazata dönt. Megválasztottnak minősül, aki sorrendben a legtöbb érvényes szavazatot, legalább azonban leadott szavazatok több mint a felét megkapta.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;3.\tAz egyesület ügyintéző és képviselő szerveit jelölése után nyílt szavazással választja meg. A választásra jogosult testület azonban nyílt szavazással és egyszerű szótöbbséggel úgy határozhat, hogy a választás titkos szavazással történjen. A megválasztás 5 évi időtartamra szól. A testületek és tagjaik választóiknak beszámolási kötelezettséggel tartoznak, ha feladataikat nem látják el megfelelően, az őket megválasztó szerv által bármikor visszahívhatók.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">IX.\t1.\tAz egyesület szervei:</span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\tKözgyűlés</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\tVezetőség (Elnökség)</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\tFelügyelő Bizottság</span></div><div><span style=\"font-weight: normal;\">&nbsp; d./\tFegyelmi Bizottság</span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tA Vezetőség a Felügyelő Bizottság és a Fegyelmi Bizottság tagjai nem lehetnek egymás közeli hozzátartozói.</span></div><div><span style=\"font-weight: normal;\">&nbsp;3.\tAz 1. pont b, c, d, pontjában felsorolt szervek tagjaivá csak büntetlen előéletű&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; és magyar állampolgárságú személyt lehet választani.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">X.\t1.\tAz egyesület legfőbb szerve a Közgyűlés.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;A Közgyűlés</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\telfogadja, módosítja az egyesület alapszabályát,</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\tkimondja az egyesület feloszlatását, vagy más egyesülettel történő</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;egyesülését. A felosztás és az egyesülés kimondásához kétharmados</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;szótöbbség szükséges,</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\tmeghatározza a megválasztandó testületek (Vezetőség, Felügyelő Bizottság, Fegyelmi Bizottság)  taglétszámát. Megválasztja az egyesület elnökét, titkárát, gazdasági felelősét, valamint a Felügyelő Bizottság, a Fegyelmi Bizottság elnökét, tagjait,</span></div><div><span style=\"font-weight: normal;\">&nbsp; d./\tmegállapítja az Egyesület költségvetését, az Egyesület működésére&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;irányadó szabályzatok tartalmát,</span></div><div><span style=\"font-weight: normal;\">&nbsp; e./\telfogadja a zárszámadását és vagyonmérlegét,</span></div><div><span style=\"font-weight: normal;\">.\f\t\tf./\tfelhatalmazza a vezetőséget a megállapított költségvetésben az</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;egyes feladatok közötti átcsoportosításra,</span></div><div><span style=\"font-weight: normal;\">&nbsp; g./\tmegállapítja a tagok évi tagdíját, belépési és egyéb díjakat,</span></div><div><span style=\"font-weight: normal;\">&nbsp; h./\tmegtárgyalja a vezetőség az éves beszámolóját és meghatározza</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp; munkájának további irányát, jóváhagyja munkaprogramját,</span></div><div><span style=\"font-weight: normal;\">&nbsp; i./\tmegsemmisíti a vezetőség jogszabályba, vagy alapszabályba \t\t\t\tütköző határozatait,</span></div><div><span style=\"font-weight: normal;\">&nbsp; j./\tbeszámoltatja a Felügyelő és a Fegyelmi Bizottságokat a munkájukról,</span></div><div><span style=\"font-weight: normal;\">&nbsp; k./\tmásodfokon eljár a vezetőség, Felügyelő és a Fegyelmi Bizottságok</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;tagjainak fegyelmi ügyében, illetve dönt a tagfelvételt elutasító vezető-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;ségi határozatok ellen benyújtott fellebbezési ügyekben,</span></div><div><span style=\"font-weight: normal;\">&nbsp; l./\tköltségvetésben állapítja meg  a vezetőség tiszteletdíját,</span></div><div><span style=\"font-weight: normal;\">&nbsp; m./\tmeghatározza az egyesület érdekében évente elvégzendő közösségi</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;munka módját, mértékét, illetőleg pénzbeli megváltásának\trendjét.</span></div><div><span style=\"font-weight: normal;\">&nbsp; n./\taz új tisztségviselők választása előtt jelölőbizottságot hoz létre, megvá-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;lasztja annak elnökét , továbbá</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;o./\tdönt mindazon kérdésekben, melyet a Ptk. 3:74. § -a a hatáskörébe&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp; utal.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XI.\t\tA Közgyűlést rendes ülésre évenként legalább egy alkalommal össze kell&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; hívni.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp; Rendkívüli ülést kell tartani, ha azt:</span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\taz egyesület tagjainak egyharmada az ülés céljának \t\t\t\t\tmegjelölésével kéri,</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\tFelügyelő Bizottság, illetőleg,</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\ta vezetőség szükségesnek tartja,</span></div><div><span style=\"font-weight: normal;\">&nbsp; d./\ta felügyeletet ellátó szerv írásban indítványozza, valamint a</span></div><div><span style=\"font-weight: normal;\">&nbsp; e./\ta Ptk. 3: 81. § -ban felsorol esetekben.</span></div><div><span style=\"font-weight: normal;\">&nbsp;&nbsp;</span></div><div><span style=\"font-weight: normal;\">A Közgyűlést az egyesület elnöke hívja össze. A napirendet tartalmazó meghí-vót az ülés kitűzött időpontja előtt legalább 8 nappal előbb meg kell küldeni a felügyeleti szervnek, a szövetség illetékes Intéző Bizottságának és az egyesület valamennyi tagjának.</span></div><div><span style=\"font-weight: normal;\">A közgyűlési meghívó tartalmazza az egyesület nevét, székhelyét, a közgyűlés helyét, idejét és a javasolt napirendi pontokat. A napirendi pontokat a meghívóban legalább olyan részletezettséggel kell rögzíteni, hogy a szavazásra jogosult tagok álláspontjukat kialakíthassák. A meghívónak tartalmaznia kell továbbá a közgyűlés határozatképtelensége esetére a megismételt közgyűlés helyszínét és időpontját, és az arra történő felhívást, hogy a megismételt közgyűlés az eredeti napirendi pontok tekintetében a megjelentek számára tekintet nélkül határozatképes lesz. (Ptk. 3:17. §)</span></div><div><span style=\"font-weight: normal;\">A közgyűlési meghívót az egyesület székhelyén és honlapján nyilvánosságra kell hozni.</span></div><div><span style=\"font-weight: normal;\">A Közgyűlésen az egyesület elnöke akadályoztatása esetén a titkár elnököl. A Közgyűlésről az elhangzottak lényegét tartalmazó jegyzőkönyvet kell készíteni.</span></div><div><span style=\"font-weight: normal;\">.\fA jegyzőkönyv vezetéséről a jegyzőkönyvvezető gondoskodik, hitelesítésére pedig a Közgyűlés megkezdésekor két felnőtt tagot kell megválasztani.&nbsp;</span></div><div><span style=\"font-weight: normal;\">A jegyzőkönyv tartalmazza a határozatok sorszámát, a döntésének tartalmát, időpontját és hatályát, illetve a döntést támogatók és ellenzők számarányát (ha az tag kéri és az lehetséges, akkor a, személyét is).</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A Közgyűlés jegyzőkönyvét és mellékleteit a közgyűlést követő 30 napon belül a felügyelő szervnek és a szövetség illetékes Intéző Bizottságának meg kell küldeni.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A közgyűlés megnyitását követően elsődlegesen meg kell állapítani a határozatképességet, vagyis az aktuális taglétszámhoz képest a megjelent és szavazásra jogosult tagok számát.&nbsp;</span></div><div><span style=\"font-weight: normal;\">A közgyűlés határozatképes, ha azon a leadható szavazatok több mint felét képviselő szavazásra jogosult részt vesz. A határozatképességet minden határozathozatalnál vizsgálni kell.</span></div><div><span style=\"font-weight: normal;\">A közgyűlés a napirendi pontok tárgyalását megelőzően egyszerű szótöbbséggel, nyílt szavazással megválasztja a jegyzőkönyvvezetőt és két, a jegyzőkönyvet hitelesítő személyt, valamint szükség esetén a kétfős szavazatszámláló bizottságot.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A tagok határozatukat a határozatképesség megállapításánál figyelembe vett szavazatok többségével hozzák meg. A határozat meghozatalakor nem szavazhat az,</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">a) \takit a határozat kötelezettség vagy felelősség alól mentesít vagy a jogi személy terhére másfajta előnyben részesít;</span></div><div><span style=\"font-weight: normal;\">b) \takivel a határozat szerint szerződést kell kötni;</span></div><div><span style=\"font-weight: normal;\">c) \taki ellen a határozat alapján pert kell indítani;</span></div><div><span style=\"font-weight: normal;\">d)\takinek olyan hozzátartozója érdekelt a döntésben, aki az egyesületnek nem tagja;</span></div><div><span style=\"font-weight: normal;\">e) \taki a döntésben érdekelt más szervezettel többségi befolyáson alapuló kapcsolatban áll; vagy</span></div><div><span style=\"font-weight: normal;\">f) \taki egyébként személyesen érdekelt a döntésben. (Ptk. 3:19. § (2) bekezdés a-f))</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A közgyűlés határozatát - az alapszabály vagy törvény eltérő rendelkezése hiányában-  egyszerű szótöbbséggel, nyílt szavazással hozza. Az egyesület alapszabályának módosításához a jelen lévő tagok háromnegyedes szótöbbséggel hozott határozata szükséges. Az egyesület céljának módosításához és az egyesület megszűnéséről szóló közgyűlési döntéshez a szavazati joggal rendelkező tagok háromnegyedes szótöbbséggel hozott határozata szükséges. (Ptk. 3:76. §))</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XII.\t\t\t\tA Vezetőség (Elnökség)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Elnökségi taggá az választható, aki a Ptk. 3:22. §. -ban fogalt követelményeknek megfelel, illetve nem esik az ott írt kizáró okok alá. Az elnökség tagjai nem lehetnek egymás közeli hozzátartozói, illetve munkakörükben egymásnak alá és fölé rendeltek.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Az elnökség tagjait a közgyűlés választja 5 év határozott időtartamra.</span></div><div><span style=\"font-weight: normal;\">Megszűnik a tisztségviselői  - elnökségi megbízás a Ptk 3:25. §&nbsp;-a alapján:</span></div><div><span style=\"font-weight: normal;\">&nbsp;</span></div><div><span style=\"font-weight: normal;\">a)&nbsp;határozott idejű megbízatás esetén a megbízás időtartamának lejártával;</span></div><div><span style=\"font-weight: normal;\">b)&nbsp;megszüntető feltételhez kötött megbízatás esetén a feltétel bekövetkezésével;</span></div><div><span style=\"font-weight: normal;\">\fc)&nbsp;visszahívással;</span></div><div><span style=\"font-weight: normal;\">d)&nbsp;lemondással;</span></div><div><span style=\"font-weight: normal;\">e)&nbsp;a vezető tisztségviselő halálával vagy jogutód nélküli megszűnésével;</span></div><div><span style=\"font-weight: normal;\">f)&nbsp;a vezető tisztségviselő cselekvőképességének a tevékenysége ellátásához szükséges körben történő korlátozásával;</span></div><div><span style=\"font-weight: normal;\">g)&nbsp;a vezető tisztségviselővel szembeni kizáró vagy összeférhetetlenségi ok bekövetkeztével.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;1.\tA vezetőség az egyesület általános hatáskörű, végrehajtó szerve, amely</span></div><div><span style=\"font-weight: normal;\">&nbsp; gondoskodik a közgyűlés határozatainak végrehajtásáról, valamint \t\t\tbiztosítja a két közgyűlés közötti időszakban az egyesületi munka \t\t\tfolyamatosságát.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">2.\tA vezetőség 3 tagú, tagjai:</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;Elnök, Titkár, Gazdasági felelős.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A vezetőség:</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\tkitűzi a közgyűlés időpontját, összeállítja és előkészíti tárgysorozatát,</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\tgazdálkodik a közgyűlés által megállapított költségvetési keretben, a közgyűlés által megállapított körben,</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\thatároz tagok felvétele, törlése tárgyában,</span></div><div><span style=\"font-weight: normal;\">&nbsp; d./\tmeghatározza, hogy a vezetőség egyes tagjai milyen szakfeladatot lát</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;nak el. Tagjai sorából megválaszthatja képviselőit a szövetség megyei \t\t\tküldöttközgyűlésébe,</span></div><div><span style=\"font-weight: normal;\">&nbsp; e./\ta költségvetés  keretében határoz egyes tagok tagdíjának mérséklése,</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;elengedése és más díjkedvezmény nyújtásáról,</span></div><div><span style=\"font-weight: normal;\">&nbsp; f./\telső fokon eljár a Fegyelmi Bizottság tagjainak fegyelmi ügyében. \t\t\tMásodfokon eljár az egyesület választott tisztséget be nem töltő tagjai-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;nak fegyelmi ügyeiben,&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; g./\tmegállapítja a halfogó és az egyéb versenyeken valamint más rendez-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;vényeknek az időpontját, a verseny feltételeit, díjait és kijelöli&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;rendezőit, bíráit,</span></div><div><span style=\"font-weight: normal;\">&nbsp; h./\tkijelöli az egyesület versenycsapatát és vezetőjét, a szövetség Intéző</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;Bizottsága által rendezett halfogó versenyeire, illetőleg más rendezvé-</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;nyeire,</span></div><div><span style=\"font-weight: normal;\">&nbsp; i./\tegyéni elbírálás, korra, egészségi állapotra, valamint egyéb méltánylást&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;érdemlő okokra való tekintettel dönt az egyesület érdekében végzendő</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;közösségi munka alóli felmentés kérdésében,</span></div><div><span style=\"font-weight: normal;\">&nbsp; j./\tmegállapítja a pártoló és tiszteletbeli tagok tagdíj és egyéb díjfizetési</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;kötelezettségét,</span></div><div><span style=\"font-weight: normal;\">&nbsp; k./\tmeghatározza saját munkatervét,</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A vezetőség szükség szerint, de évente legalább két alkalommal rendes ülést tart. A vezetőség akkor határozatképes, ha a vezetőség ülésén minden vezetőségi tag jelen van.</span></div><div><span style=\"font-weight: normal;\">\fAz elnökség határozatát -az alapszabály vagy törvény eltérő rendelkezése hiányában-  egyszerű szótöbbséggel, nyílt szavazással hozza.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;A határozat meghozatalakor nem szavazhat az,</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">a) \takit a határozat kötelezettség vagy felelősség alól mentesít vagy az  egyesület terhére másfajta előnyben részesít;</span></div><div><span style=\"font-weight: normal;\">b) \takivel a határozat szerint szerződést kell kötni;</span></div><div><span style=\"font-weight: normal;\">c) \taki ellen a határozat alapján pert kell indítani;</span></div><div><span style=\"font-weight: normal;\">d)\takinek olyan hozzátartozója érdekelt a döntésben, aki az egyesületnek nem tagja;</span></div><div><span style=\"font-weight: normal;\">e) \taki a döntésben érdekelt más szervezettel többségi befolyáson alapuló kapcsolatban áll; vagy</span></div><div><span style=\"font-weight: normal;\">&nbsp;f)      aki egyébként személyesen érdekelt a döntésben. (Ptk. 3:19. § (2) bekezdés a-f))</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Rendkívüli ülést kell összehívni, ha azt:</span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\ta vezetőség tagjainak legalább egyharmada az ülés céljának \t\t\t\tmegjelölésével kéri,&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\taz egyesület elnöke, illetőleg&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\ta Felügyelő Bizottság szükségesnek tartja.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">A vezetőség ülését az egyesület elnöke, akadályoztatása esetén a titkára hívja&nbsp;</span></div><div><span style=\"font-weight: normal;\">össze és látja el az elnöki feladatokat.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;7.\tA vezetőség ( Elnökség) üléseiről jegyzőkönyvet vagy emlékeztetőt kell készíteni, melyet a vezetőség két tagja hitelesít. A jegyzőkönyv tartalmazza az ülés helyszínét, időpontját, a jelenlévők névsorát, a napirendi pontokat, a határozatokat, az igenlő és nemleges szavazatok számát, a hozzászólásokat, és a kisebbségi véleményeket.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XIII.\tAz egyesület Elnöke:</span></div><div><span class=\"Apple-tab-span\" style=\"white-space: pre; font-weight: normal;\">\t</span></div><div><span style=\"font-weight: normal;\">&nbsp;1.\taz egyesület elnöke:</span></div><div><span style=\"font-weight: normal;\">&nbsp; a.\tképviseli az egyesületet, illetőleg a vezetőség egyes tagjait megbízza az</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;egyesület esetenkénti képviseletével,</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\tösszehívja a közgyűlést és a vezetőség üléseit, azokon elnököl,</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\tellenőrzi a testületi szervek határozatainak végrehajtását, őrködik\taz</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;egyesület szerveinek törvényes és alapszabály szerű tevékenysége fe</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;lett,</span></div><div><span style=\"font-weight: normal;\">&nbsp; d./\ta költségvetés keretei között utalványozási jogkört gyakorol.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tAz elnököt munkájában a titkár segíti, akadályoztatása esetén őt helyettesíti.&nbsp;</span></div><div><span style=\"font-weight: normal;\">Meghatározott ügyekben az elnök írásbeli meghatalmazása alapján más tag vagy az egyesület alkalmazottja is eljárhat. Nem képviselheti azonban az egyesületet olyan személy, aki, vagy akinek közeli hozzátartozója az adott ügyben ellenérdekű félként szerepel.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">\fXIV.\tAz egyesület titkára</span></div><div><span style=\"font-weight: normal;\">&nbsp;&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\telőkészíti a közgyűlés és a vezetőség elé kerülő előterjesztéseket,</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./\tgondoskodik a Közgyűlés és a vezetőség ülései jegyzőkönyveinek&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp;vezetéséről,</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\tirányítja, illetve ellátja az egyesület és szervei írásbeli teendőit,</span></div><div><span style=\"font-weight: normal;\">&nbsp; d./\tszervezi az egyesület rendezvényeit,</span></div><div><span style=\"font-weight: normal;\">&nbsp; e./\tsegíti az egyesület elnökét feladatainak ellátásban, végzi az elnök \t\t\t\táltal írásban átruházott munkafeladatokat,&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XV.\tAz egyesület gazdasági felelőse</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;1.  \tAz egyesület gazdasági felelőse:</span></div><div><span style=\"font-weight: normal;\">&nbsp; a./\tintézi az egyesület gazdasági ügyeit, rendszeresen beszámol az</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp; elnöknek és a vezetőségnek az egyesület vagyoni helyzetéről,</span></div><div><span style=\"font-weight: normal;\">&nbsp; b./ \tokmányolt számadást vezet a pénz-és vagyonkezelésről,</span></div><div><span style=\"font-weight: normal;\">&nbsp; c./\telőkészíti az évi költségvetést, zárszámadást, vagyonmérleget és \t\t\t\ta vezetőség, majd a Közgyűlés elé terjeszti.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XVI.\tFelügyelő Bizottság</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;1.\tA Felügyelő Bizottság elnökét és tagjait a Közgyűlés választja. A Felügyelő Bizottság három tagú.</span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tA bizottság tagjai egyidejűleg az egyesületen belül más tisztséget nem \t\t\tviselhetnek.</span></div><div><span style=\"font-weight: normal;\">&nbsp;3.\tA bizottság köteles ellenőrizni az alapszabály megtartását, az egyesület költségvetésének, a Közgyűlés határozatainak végrehajtását, továbbá - a Közgyűlés kivételével - az egyesület szerveinek törvényes és \talapszabály szerinti működését, negyedévenként pedig a pénz és anyagkezelést, a bizonylati fegyelmet, valamint a gazdálkodást. Az ellenőrzésről a bizottság jegyzőkönyvet (feljegyzést) köteles készíteni.</span></div><div><span style=\"font-weight: normal;\">&nbsp;4.\tA bizottság jogosult az egyesület működésével és gazdálkodásával kapcsolatos bármely ügyet megvizsgálni.</span></div><div><span style=\"font-weight: normal;\">&nbsp;5.\tHa a bizottság ellenőrzése során hiányosságot, vagy jogszabályt, Alapszabály, illetőleg az egyesület érdekeit sértő bármely magatartást észlel arról írásban köteles tájékoztatni az egyesület elnökét. Az írásbeli tájékoztatás eredménytelensége esetén 30 napon belül rendkívüli közgyűlés összehívását kezdeményezheti.</span></div><div><span style=\"font-weight: normal;\">&nbsp;6.\tA bizottság elnöke köteles a végzett munkáról a Közgyűlésnek beszámolni.</span></div><div><span style=\"font-weight: normal;\">&nbsp;7.\tA bizottság elnöke tanácskozási joggal jogosult résztvenni a vezetőség ülésein.</span></div><div><span style=\"font-weight: normal;\">A felügyelő bizottság tagjainak összeférhetetlenségére a Ptk. 3:22. § és a 3:26. § (2) bekezdés rendelkezéseit kell alkalmazni.</span></div><div><span style=\"font-weight: normal;\">\fXVII.\tFegyelmi Bizottság</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;1.\tA Fegyelmi Bizottság elnökét és tagjait a Közgyűlés választja. A \tFegyelmi Bizottság háromtagú.</span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tA bizottság első fokon eljár az egyesület választott tisztséget be nem töltő tagjainak, valamint a vezetőség és a Felügyelő Bizottság tagjainak fegyelmi ügyeiben.&nbsp;</span></div><div><span style=\"font-weight: normal;\">&nbsp;3.\tA bizottság tagjai egyidejűleg nem lehetnek a vezetőség tagjai.</span></div><div><span style=\"font-weight: normal;\">&nbsp;4.\tA bizottság eljárására a Szövetség fegyelmi szabályzatában foglalt rendelkezések az irányadók.</span></div><div><span style=\"font-weight: normal;\">&nbsp;5.\tA bizottság időszakonként tájékoztatja a fegyelmi helyzetről és a felelőségre- vonási gyakorlatról a vezetőséget, a Közgyűlésen pedig beszámol munkájáról.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XVIII.\tAz egyesület jogi személyisége és vagyona</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;1.\tAz egyesület jogi személy.</span></div><div><span style=\"font-weight: normal;\">&nbsp;2.\tAz egyesület vagyonát ingóságok, készpénz és követelések alkotják.</span></div><div><span style=\"font-weight: normal;\">&nbsp;3.\tAz egyesület bevételei tagdíjakból, belépési és egyéb díjakból, az egyesület kezelésében lévő vízterületekre kiadott területi engedélyek díjából, az egyesület alapszabályszerű tevékenységéből eredő más bevételekből állnak.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp;Az egyesület tartozásaiért saját vagyonával felel. A tagok a tagdíjon felül\t saját vagyonukkal az egyesület tartozásaiért nem felelnek.</span></div><div><span style=\"font-weight: normal;\">Az egyesület a jogszabályok keretei között lehetséges gazdálkodási tevékenységet folytathat (alapszabály II. 5. pont).</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">XIX. Az Egyesület megszűnése</span></div><div><span style=\"font-weight: normal;\">Egyesület más jogi személlyé nem alakulhat át, csak egyesülettel egyesülhet és csak egyesületekre válhat szét. (Ptk. 3:83. §)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Az egyesület megszűnik:</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">feloszlással</span></div><div><span style=\"font-weight: normal;\">egyesüléssel,</span></div><div><span style=\"font-weight: normal;\">feloszlatással,</span></div><div><span style=\"font-weight: normal;\">megszűnésének megállapításával.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Megszűnik az egyesület akkor is, ha az egyesület megvalósította célját vagy az egyesület céljának megvalósítása lehetetlenné vált, és új célt nem határoztak meg; vagy  az egyesület tagjainak száma hat hónapon keresztül nem éri el a tíz főt. (Ptk. 3:83. §)</span></div><div><span style=\"font-weight: normal;\">\fAz egyesület bármely okból történő megszűnése esetén a hitelezők követeléseinek kiegyenlítése után fennmaradó vagyont az alapszabályban meghatározott, az egyesület céljával megegyező vagy hasonló cél megvalósítására létrejött közhasznú szervezetnek kell átadni. A fennmaradó vagyon csak „horgász” vonatkozású célra fordítható.&nbsp;</span></div><div><span style=\"font-weight: normal;\">XX.  Az Egyesület felügyelete</span></div><div><span style=\"font-weight: normal;\">Az Egyesület működése felett a törvényességi felügyeletet a Veszprém Megyei Ügyészség gyakorolja. Az egyesületet nyilvántartó szerv a Veszprémi Törvényszék.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Adatkezelés:</span></div><div><span style=\"font-weight: normal;\">a) &nbsp; Az egyesület, tagjairól személyes adatokat és horgászati tevékenységgel kapcsolatos adatokat tart nyilván.</span></div><div><span style=\"font-weight: normal;\">b) &nbsp; Az adatkezelés során köteles betartani az adatkezelésre vonatkozó törvényi és egyéb jogszabályi előírásokat.</span></div><div><span style=\"font-weight: normal;\">c) &nbsp; A tagnyilvántartás nem nyilvános, a tagokról személyes adatokat csak jogszabály előírása alapján vagy az érintett hozzájárulása esetén lehet kiadni.</span></div><div><span style=\"font-weight: normal;\">d) &nbsp; A közgyűlés és az egyesület szerveinek határozatai valamint az egyesület működése során keletkezett valamennyi irat nyilvános, abba, bárki betekinthet, az egyesület székhelyén.</span></div><div><span style=\"font-weight: normal;\">e) &nbsp; Az egyesület közzétételi kötelezettségeit a ____________ &nbsp;honlapján teljesíti.</span></div><div><span style=\"font-weight: normal;\">Az alapszabályban nem szabályozott kérdésekben a Polgári Törvénykönyvről szóló 2013. évi V. törvény és az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény rendelkezései irányadók.</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Záradék:</span></div><div><span style=\"font-weight: normal;\">&nbsp;Jelen alapszabály az egyesület létesítő okiratának a létesítő okirat-módosításokkal egységes szerkezetbe foglalt hatályos rendelkezéseit tartalmazza, így aláírásommal ezt is igazolom. A módosított alapszabályt az egyesület 2016. __________. napján megtartott közgyűlése fogadta el, a módosított rendelkezéseket pedig dőlt betűvel szedett részek jelölik.</span></div><div><span style=\"font-weight: normal;\">&nbsp;</span></div><div><span style=\"font-weight: normal;\">Kelt: Badacsonytördemic, 2016. _____________  -n</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; ____________________________</span></div><div><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Molnár Géza elnök</span></div><div><br></div>",
+          "meta": ""
+        }
+      ]
+    },
+    "horgaszverseny2016.html": {
+      "settings": {
+        "title": "Horgászverseny 2016",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Galéria"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-19",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1339-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#383838",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1h",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "rendezvenyeink.html": {
+      "settings": {
+        "title": "Rendezvényeink",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Rendezvényeink"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1i",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1j",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Feltöltés alatt...",
+          "text": "<p>2017</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "kikoto.html": {
+      "settings": {
+        "title": "Kikötő szabályzata",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Kikötő szabályzata"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1m",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Kikötői szabályzat",
+          "text": "<p>2017</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            },
+            "DIV": {
+              "color": "#cccccc",
+              "text-align": "left",
+              "font-size": "14px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#383838",
+            "showMeta": false
+          },
+          "title": "<div><span style=\"font-weight: normal;\">Badacsonytordemici Horgasz Egyesület\nCSÓNAKKIKOTŐ ALAPSZABALYA\n</span></div><br><div><span style=\"font-weight: normal;\">1. &nbsp;A tagság évi kikötői díja 2011-től 5.000,- Ft, azaz ötezer forint befizetése után, amely év februar 15-ig esedékes, veheti &nbsp;igenybe a kikotő használatát.\nHa a tag befizetési kötelezettségének a határidőig nem tesz eleget, kikötő helyét a vezetőség kiadja, vagy eladásra kerül.\n(A befizetés elmaradása azonnali kizárást von maga utan!)</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">2. Az új tagok egyszeri 25.000,- Ft + az éves tagdíj 2.000,- Ft + kikötői díj 5.000,- Ft befizetése ellenében léphetnek be az egyesületünkbe. Végleges csónakhelyet kettő év bérlői viszony után kaphat az új tag.\n3. Az egyesületi tagok kötelező érvényűnek tartják magukra nézve a következőket:\n Az érkező és távozó horgászok a kaput kötelesek áthaladás után kulcsra zárni!\n A kikötő mólóját parkolási célból TILOS igénybe venni!\n A csónakokat téli időszakban csak a parkoló és a móló szabadon hagyásával lehet\ntárolni!\n A kikötőhelyeken a csónakokat biztosan kell rögzíteni.\n A csónakok biztonságáért egyesületünk felelősséget nem vállal!\n A tagok vendégeiket csak jelenlétükkel hozhatják be a területre és senkit kulccsal fel\nnem ruházhatnak.\n A befizető tag csak a saját csónakját tárolhatja és használhatja az általa bérelt helyen.\nCsónakhellyel való visszaélés kizárást von maga után!\n4. Az a tag, aki csónakhelyét nem használja, és nem járul hozzá annak bérbeadásához - csónakhelye jogfolytonos fenntartása mellett -, a következő évtől piaci díjat köteles fizetni (a szigligeti MAHART csónakkikötő díjszabása szerint). Akinek a csónakhelyét bérbe tudjuk adni, a kikötői díjat nem kapja vissza.\n5. Kérjük a sporttársakat és a kedves vendégeiket, hogy segítsenek megőrizni a terület rendjét, tisztaságát, sajátjukként vigyázzanak rá, és erre figyelmeztessék a magukról megfeledkezőket.\nFelhívjuk a tagság figyelmét, hogy a módosított hajózási szabályzatban előírt felszerelések a csónak tartozékát képezik, meglétük kötelező!\nAZ ALAPSZABÁLY MEGSÉRTÉSE A TAGOK EGYESÜLETBŐL VALÓ KIZÁRÁSÁT VONHATJA MAGA UTÁN!</span></div>",
+          "meta": ""
+        }
+      ]
+    },
+    "hatarozatok.html": {
+      "settings": {
+        "title": "Határozatok",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Határozatok"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1u",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Határozatok",
+          "text": "<p>2017</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content2-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#383838"
+          },
+          "text": "<blockquote>Feltöltés alatt...</blockquote>"
+        }
+      ]
+    },
+    "jegyzokonyvek.html": {
+      "settings": {
+        "title": "Jegyzőkönyvek",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Jegyzőkönyvek"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1u",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1v",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Közgyűlési jegyzőkönyvek",
+          "text": "<p>2017</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "content2-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#383838"
+          },
+          "text": "<blockquote>Feltöltés alatt...</blockquote>"
+        }
+      ]
+    },
+    "kikotonk.html": {
+      "settings": {
+        "title": "Kikötőnk",
+        "meta_descr": "Badacsonytördemic Horgász Egyesület - Csónakkikötő"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#efefef"
+            },
+            "SPAN": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "0",
+            "bgColor": "#383838",
+            "showMeta": false
+          },
+          "title": "<span style=\"font-weight: normal;\">A Badacsonytördemic Horgász Egyesület csónakkikötője</span>",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#00c138!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-21",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "0.75",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/he-pecst-128x128.jpg",
+              "height": 128,
+              "alt": "Kezdőlap",
+              "link": "index.html",
+              "title": "Kezdőlap",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Kezdőlap</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rolunk.html\">RÓLUNK<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">DOKUMENTUMOK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alapszabaly.html\">Alapszabály</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikoto.html\">Kikötő szabályzata</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"hatarozatok.html\">Határozatok</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"jegyzokonyvek.html\">Közgyűlési jegyzőkönyvek</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ELÉRHETŐSÉGEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vezetoseg.html\">VEZETŐSÉG</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"elerhetosegek.html\">ELÉRHETŐSÉGEK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kapcsolatfelvetel.html\">KAPCSOLATFELVÉTEL</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"rendezvenyeink.html\">RENDEZVÉNYEINK<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"galeriahtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">GALÉRIA<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kikotonk.html\">Kikötőnk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"horgaszverseny2016.html\">Horgászverseny 2016</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-22",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bckgrnd-fotor1-2000x2381-800x952.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bckgrnd-fotor1-2000x2381.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hegy-2000x1451-800x580.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#383838",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-27",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    }
+  }
+}
