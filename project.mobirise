@@ -1477,6 +1477,45 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Kikötői szabályzat",
+          "text": "<p>2017</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -1588,45 +1627,6 @@
           "text": "Minden jog fenntartva! &nbsp;(c) 2017 Badacsonytördemic Horgász Egyesület"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1o",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hegy-2000x1451.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#222222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Kikötői szabályzat",
-          "text": "<p>2017</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -1637,7 +1637,7 @@
             "paddingBottom": 1,
             "bgColor": "#383838"
           },
-          "text": "<p><br></p><p><b>A Badacsonytördemic Horgász Egyesület\nCSÓNAKKIKÖTŐ ALAPSZABÁLYA\u001b</b></p><p><br></p><blockquote><p>1. A tagság évi kikötői díja 2011-től 5.000,- Ft, azaz ötezer forint befizetése után, amely év február 15-ig esedékes, veheti igénybe a kikötő használatát.\nHa a tag befizetési kötelezettségének a határidőig nem tesz eleget, kikötő helyét a vezetőség kiadja, vagy eladásra kerül.\n(A befizetés elmaradása azonnali kizárást von maga után!)\n</p><p><br></p><p>2. Az új tagok egyszeri 25.000,- Ft + az éves tagdíj 2.000,- Ft + kikötői díj 5.000,- Ft befizetése ellenében léphetnek be az egyesületünkbe. Végleges csónakhelyet kettő év bérlői viszony után kaphat az új tag.</p><p>\n</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">3. Az egyesületi tagok kötelező érvényűnek tartják magukra nézve a következőket: Az érkező és távozó horgászok a kaput kötelesek áthaladás után kulcsra zárni! A kikötő mólóját parkolási célból TILOS igénybe venni! A csónakokat téli időszakban csak a parkoló és a móló szabadon hagyásával lehet\ntárolni! A kikötőhelyeken a csónakokat biztosan kell rögzíteni. A csónakok biztonságáért egyesületünk felelősséget nem vállal! A tagok vendégeiket csak jelenlétükkel hozhatják be a területre és senkit kulccsal fel\nnem ruházhatnak.\n A befizető tag csak a saját csónakját tárolhatja és használhatja az általa bérelt helyen.\nCsónakhellyel való visszaélés kizárást von maga után!</span><br></p><p><br></p><p>4. Az a tag, aki csónakhelyét nem használja és nem járul hozzá annak bérbeadásához - csónakhelye jogfolytonos fenntartása mellett -, a következő évtől piaci díjat köteles fizetni (a szigligeti MAHART csónakkikötő díjszabása szerint). Akinek a csónakhelyét bérbe tudjuk adni, a kikötői díjat nem kapja vissza.\n</p><p><br></p><p>5. Kérjük a sporttársakat és a kedves vendégeiket, hogy segítsenek megőrizni a terület rendjét, tisztaságát, sajátjukként vigyázzanak rá, és erre figyelmeztessék a magukról megfeledkezőket.\nFelhívjuk a tagság figyelmét, hogy a módosított hajózási szabályzatban előírt felszerelések a csónak tartozékát képezik, meglétük kötelező!\n</p><p><br></p><p>AZ ALAPSZABÁLY MEGSÉRTÉSE A TAGOK EGYESÜLETBŐL VALÓ KIZÁRÁSÁT VONHATJA MAGA UTÁN!</p></blockquote>",
+          "text": "<p><br></p><p><b>A Badacsonytördemic Horgász Egyesület\nCSÓNAKKIKÖTŐ ALAPSZABÁLYA\u001b</b></p><p><br></p><blockquote><p>1. A tagság évi kikötői díja 2011-től 5.000,- Ft, azaz ötezer forint befizetése után, amely év február 15-ig esedékes, veheti igénybe a kikötő használatát.\nHa a tag befizetési kötelezettségének a határidőig nem tesz eleget, kikötő helyét a vezetőség kiadja, vagy eladásra kerül.\n(A befizetés elmaradása azonnali kizárást von maga után!)\n</p><p><br></p><p>2. Az új tagok egyszeri 25.000,- Ft + az éves tagdíj 2.000,- Ft + kikötői díj 5.000,- Ft befizetése ellenében léphetnek be az egyesületünkbe. Végleges csónakhelyet kettő év bérlői viszony után kaphat az új tag.</p><p>\n</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">3. Az egyesületi tagok kötelező érvényűnek tartják magukra nézve a következőket: Az érkező és távozó horgászok a kaput kötelesek áthaladás után kulcsra zárni! A kikötő mólóját parkolási célból TILOS igénybe venni! A csónakokat téli időszakban csak a parkoló és a móló szabadon hagyásával lehet\ntárolni! A kikötőhelyeken a csónakokat biztosan kell rögzíteni. A csónakok biztonságáért egyesületünk felelősséget nem vállal! A tagok vendégeiket csak jelenlétükkel hozhatják be a területre és senkit kulccsal fel\nnem ruházhatnak.\n A befizető tag csak a saját csónakját tárolhatja és használhatja az általa bérelt helyen.\nCsónakhellyel való visszaélés kizárást von maga után!</span><br></p><p><br></p><p>4. Az a tag, aki csónakhelyét nem használja és nem járul hozzá annak bérbeadásához - csónakhelye jogfolytonos fenntartása mellett -, a következő évtől piaci díjat köteles fizetni (a szigligeti MAHART csónakkikötő díjszabása szerint). Akinek a csónakhelyét bérbe tudjuk adni, a kikötői díjat nem kapja vissza.\n</p><p><br></p><p>5. Kérjük a sporttársakat és a kedves vendégeiket, hogy segítsenek megőrizni a terület rendjét, tisztaságát, sajátjukként vigyázzanak rá, és erre figyelmeztessék a magukról megfeledkezőket.\nFelhívjuk a tagság figyelmét, hogy a módosított hajózási szabályzatban előírt felszerelések a csónak tartozékát képezik, meglétük kötelező!\n</p><p><br></p><p><b>AZ ALAPSZABÁLY MEGSÉRTÉSE A TAGOK EGYESÜLETBŐL VALÓ KIZÁRÁSÁT VONHATJA MAGA UTÁN!</b></p></blockquote>",
           "_styles": {
             "DIV": {
               "text-align": "left",
@@ -1653,7 +1653,7 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "14px",
+              "font-size": "15px",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
