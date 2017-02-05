@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "kikoto.html",
+    "currentPage": "rolunk.html",
     "name": "Badacsontördemic Horgász Egyesület",
     "theme": {
       "name": "mobirise3",
@@ -319,14 +319,16 @@
               "font-size": "15px"
             },
             ".mbr-section-lead SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "14px",
               "color": "#efefef",
               "text-align": "left"
             },
             ".mbr-section-title SPAN": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_anchor": "header1-l",
@@ -349,7 +351,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">Rólunk</span>",
+          "title": "<span style=\"font-weight: normal;\">Bemutatkozás</span>",
           "text": "<span style=\"font-style: normal;\"><br>A Balaton parti településekhez hasonlóan Badacsonytördemic múltjában is már megtalálható a horgászat, halászat.&nbsp;Elődeink rendelkeztek halászkikötővel a Badacsony lábánál. Az 1980-as években a strand területén kötöttek ki a horgászok csónakjaikkal.&nbsp;<span style=\"line-height: 1.5;\">1991-ben a jelenlegi kikötőt 8 fő befizetésével alakították ki.&nbsp;</span>Ezek: Gelencsér Ferenc, Felföldy Mihály, Ropoli László, Cseh Sándor, dr. Mayer Mihály, Pálosi János, Berkes Imre, Tóth Csaba.&nbsp;A későbbiekben ehhez sokan csatlakoztak.<br><br>1992. december 28-án 17 fővel megalapították a Horgász Egyesületet Lovass János elnök vezetésével.<br><br>2000-ben a megszülető Balaton törvény hatására elődeink elkezdték a kikötő engedélyeztetését. Megszerezték a vízjogi engedélyt 2010-ig, de a közlekedési engedélyt nem sikerült megkapni.<br><br><span style=\"line-height: 1.5;\">Jelenleg az Egyesület létszáma 110 fő körül ingadozik. A létszám 70 %-a helyi ingatlantulajdonos.&nbsp;</span><span style=\"line-height: 1.5;\">Az Egyesület előtt álló legfontosabb feladat a kikötő engedélyeinek megszerzése és egy új kikötő megépítése.&nbsp;</span><span style=\"line-height: 1.5;\">A feladat nehézségeit jól mutatja, hogy az ügyintézés 2009. óta folyik. Hozzáértő jogi szakemberek azt mondják, hogy a jelenlegi jogi környezetben az engedélyek megszerzése lehetetlen.&nbsp;</span><span style=\"line-height: 1.5;\">Azonban a Polgármesteri Hivatallal vállvetve addig megyünk, amíg nem sikerülnek a terveink. Őszintén reméljük, hogy a testületek változása esetén is támogatást kapunk.</span><br><br>A Községünk érdeke, hogy strandunk és kikötőnk legyen hosszú távon az önkormányzat tulajdonában.&nbsp;<span style=\"line-height: 1.5;\">Az egyesület minden évben tavasszal horgászpikniket tart, ősszel pedig egy süllős hétvégét a strand területén.</span><br><br>Fontos esemény még a haltelepítés, amely 2010. óta zajlik területünkön.</span><br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"mailto: tordemic-he@freemail.hu\" data-toolbar=\"-mbrBtnMove\">Érdeklődés</a>"
         },
@@ -1631,13 +1633,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2c",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#383838"
-          },
-          "text": "<p><br></p><p><b>A Badacsonytördemic Horgász Egyesület\nCSÓNAKKIKÖTŐ ALAPSZABÁLYA\u001b</b></p><p><br></p><blockquote><p>1. A tagság évi kikötői díja 2011-től 5.000,- Ft, azaz ötezer forint befizetése után, amely év február 15-ig esedékes, veheti igénybe a kikötő használatát.\nHa a tag befizetési kötelezettségének a határidőig nem tesz eleget, kikötő helyét a vezetőség kiadja, vagy eladásra kerül.\n(A befizetés elmaradása azonnali kizárást von maga után!)\n</p><p><br></p><p>2. Az új tagok egyszeri 25.000,- Ft + az éves tagdíj 2.000,- Ft + kikötői díj 5.000,- Ft befizetése ellenében léphetnek be az egyesületünkbe. Végleges csónakhelyet kettő év bérlői viszony után kaphat az új tag.</p><p>\n</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">3. Az egyesületi tagok kötelező érvényűnek tartják magukra nézve a következőket: Az érkező és távozó horgászok a kaput kötelesek áthaladás után kulcsra zárni! A kikötő mólóját parkolási célból TILOS igénybe venni! A csónakokat téli időszakban csak a parkoló és a móló szabadon hagyásával lehet\ntárolni! A kikötőhelyeken a csónakokat biztosan kell rögzíteni. A csónakok biztonságáért egyesületünk felelősséget nem vállal! A tagok vendégeiket csak jelenlétükkel hozhatják be a területre és senkit kulccsal fel\nnem ruházhatnak.\n A befizető tag csak a saját csónakját tárolhatja és használhatja az általa bérelt helyen.\nCsónakhellyel való visszaélés kizárást von maga után!</span><br></p><p><br></p><p>4. Az a tag, aki csónakhelyét nem használja és nem járul hozzá annak bérbeadásához - csónakhelye jogfolytonos fenntartása mellett -, a következő évtől piaci díjat köteles fizetni (a szigligeti MAHART csónakkikötő díjszabása szerint). Akinek a csónakhelyét bérbe tudjuk adni, a kikötői díjat nem kapja vissza.\n</p><p><br></p><p>5. Kérjük a sporttársakat és a kedves vendégeiket, hogy segítsenek megőrizni a terület rendjét, tisztaságát, sajátjukként vigyázzanak rá, és erre figyelmeztessék a magukról megfeledkezőket.\nFelhívjuk a tagság figyelmét, hogy a módosított hajózási szabályzatban előírt felszerelések a csónak tartozékát képezik, meglétük kötelező!\n</p><p><br></p><p><b>AZ ALAPSZABÁLY MEGSÉRTÉSE A TAGOK EGYESÜLETBŐL VALÓ KIZÁRÁSÁT VONHATJA MAGA UTÁN!</b></p></blockquote>",
           "_styles": {
             "DIV": {
               "text-align": "left",
@@ -1657,7 +1652,14 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-2c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#383838"
+          },
+          "text": "<p><br></p><p><b>A Badacsonytördemic Horgász Egyesület\nCSÓNAKKIKÖTŐ ALAPSZABÁLYA\u001b</b></p><p><br></p><blockquote><p>1. A tagság évi kikötői díja 2011-től 5.000,- Ft, azaz ötezer forint befizetése után, amely év február 15-ig esedékes, veheti igénybe a kikötő használatát.\nHa a tag befizetési kötelezettségének a határidőig nem tesz eleget, kikötő helyét a vezetőség kiadja, vagy eladásra kerül.\n(A befizetés elmaradása azonnali kizárást von maga után!)\n</p><p><br></p><p>2. Az új tagok egyszeri 25.000,- Ft + az éves tagdíj 2.000,- Ft + kikötői díj 5.000,- Ft befizetése ellenében léphetnek be az egyesületünkbe. Végleges csónakhelyet kettő év bérlői viszony után kaphat az új tag.</p><p>\n</p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">3. Az egyesületi tagok kötelező érvényűnek tartják magukra nézve a következőket: Az érkező és távozó horgászok a kaput kötelesek áthaladás után kulcsra zárni! A kikötő mólóját parkolási célból TILOS igénybe venni! A csónakokat téli időszakban csak a parkoló és a móló szabadon hagyásával lehet\ntárolni! A kikötőhelyeken a csónakokat biztosan kell rögzíteni. A csónakok biztonságáért egyesületünk felelősséget nem vállal! A tagok vendégeiket csak jelenlétükkel hozhatják be a területre és senkit kulccsal fel\nnem ruházhatnak.\n A befizető tag csak a saját csónakját tárolhatja és használhatja az általa bérelt helyen.\nCsónakhellyel való visszaélés kizárást von maga után!</span><br></p><p><br></p><p>4. Az a tag, aki csónakhelyét nem használja és nem járul hozzá annak bérbeadásához - csónakhelye jogfolytonos fenntartása mellett -, a következő évtől piaci díjat köteles fizetni (a szigligeti MAHART csónakkikötő díjszabása szerint). Akinek a csónakhelyét bérbe tudjuk adni, a kikötői díjat nem kapja vissza.\n</p><p><br></p><p>5. Kérjük a sporttársakat és a kedves vendégeiket, hogy segítsenek megőrizni a terület rendjét, tisztaságát, sajátjukként vigyázzanak rá, és erre figyelmeztessék a magukról megfeledkezőket.\nFelhívjuk a tagság figyelmét, hogy a módosított hajózási szabályzatban előírt felszerelések a csónak tartozékát képezik, meglétük kötelező!\n</p><p><br></p><p><b>AZ ALAPSZABÁLY MEGSÉRTÉSE A TAGOK EGYESÜLETBŐL VALÓ KIZÁRÁSÁT VONHATJA MAGA UTÁN!</b></p></blockquote>"
         }
       ]
     },
